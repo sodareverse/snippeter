@@ -3,6 +3,7 @@
 
 <h3 align="center">Lua API snippet generator and parser</h3>
 </p>
+
     ### Prerequisites
 
 First of all you need to install:
